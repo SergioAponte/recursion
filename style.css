@@ -1,0 +1,33 @@
+*{
+          margin: 0;
+          padding: 0;
+          box-sizing: 0;
+}
+body{
+          background-color: beige;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+}
+.general{
+          height: 500px;
+          width: 500px;
+          background-color: rgba(245, 245, 220, 0.37);
+}
+
+input{
+          height: 80px;
+          width: 100px;
+          background-color: azure;
+}
+.contador{
+          height: 95px;
+          width: 130px;
+          background-color: azure;
+}
+button{
+          height: 80px;
+          width: 80px;
+          border-radius: 50%;
+          background-color: azure;
+}
